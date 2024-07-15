@@ -1,2 +1,4 @@
 # MULTIMEIDA-ASSERTS
-[MULTIMEDIA](https://youtu.be/uvTcd-VlM64?si=kPioDQsiAHXNcni7)
+
+so, this will be our assert repository of our tenure to make our life easy. 
+
