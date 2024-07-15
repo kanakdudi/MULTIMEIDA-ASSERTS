@@ -8,18 +8,18 @@
    - [BASIC OF AFTER EFFECTS](https://youtu.be/QHDhSidFhcQ?si=qnRTuww-JlsFf-hf)
 
   some youtube channels which we can refer for editing styles :
-    - [VOX](https://www.youtube.com/@Vox)
-    - [NEW YORK TIMES](https://www.youtube.com/@nytimes)
-    - [Jonny Haris](https://www.youtube.com/@johnnyharris) : this guy was one of the early vox editer and now a idependent journalist 
+   - [VOX](https://www.youtube.com/@Vox)
+   - [NEW YORK TIMES](https://www.youtube.com/@nytimes)
+   - [Jonny Haris](https://www.youtube.com/@johnnyharris) : this guy was one of the early vox editer and now a idependent journalist 
 
   some particular editing tutorials :
     most of the following link are from [MAPAL](https://www.youtube.com/@mapal) 's youtube channel, i have only listed some video, if you are interested then dig into his channel and you'll find many more cool tutorials
-      - animate like vox : [video1](https://youtu.be/H0ny76eBcDE?si=JGOJlwoXEfC7CFmY), [video2](https://youtu.be/n1bOAad9vco?si=eCEFe-8NCbZp0JcO)
-      - [infographics](https://youtu.be/6hF1bbgGk8o?si=c3n2IBjsllfJpCPT)
-      - [character animation](https://youtu.be/A2swfdRKuBA?si=l2tdracaEsD3zJqz)
-      - collage animation : [video1](https://youtu.be/RdX3yzQDyG4?si=o1J0JO1_Yrbj5siC), [video2](https://youtu.be/NXRR6H8pI_U?si=R_UOdG4_6GvZZB1g)
-      - [3D article animation](https://youtu.be/fDD0q7zUnbw?si=64eRzhMGs4gIruIU)
-      - can refer this playlist for specific types of editing [link](https://youtube.com/playlist?list=PLT6TzADDEXvbDR5RdTrQZqYgjRJwCUBgw&si=H7ZWLGO_7jDefSPw)
+    - animate like vox : [video1](https://youtu.be/H0ny76eBcDE?si=JGOJlwoXEfC7CFmY), [video2](https://youtu.be/n1bOAad9vco?si=eCEFe-8NCbZp0JcO)
+    - [infographics](https://youtu.be/6hF1bbgGk8o?si=c3n2IBjsllfJpCPT)
+    - [character animation](https://youtu.be/A2swfdRKuBA?si=l2tdracaEsD3zJqz)
+    - collage animation : [video1](https://youtu.be/RdX3yzQDyG4?si=o1J0JO1_Yrbj5siC), [video2](https://youtu.be/NXRR6H8pI_U?si=R_UOdG4_6GvZZB1g)
+    - [3D article animation](https://youtu.be/fDD0q7zUnbw?si=64eRzhMGs4gIruIU)
+    - can refer this playlist for specific types of editing [link](https://youtube.com/playlist?list=PLT6TzADDEXvbDR5RdTrQZqYgjRJwCUBgw&si=H7ZWLGO_7jDefSPw)
 
 2. PHOTOSHOP :
    software installation :
