@@ -5,7 +5,7 @@
    - [for mac users](https://filecr.com/macos/adobe-after-effects-1025/?id=275577730000)
 
   Get into the basic :
-    - [BASIC OF AFTER EFFECTS](https://youtu.be/QHDhSidFhcQ?si=qnRTuww-JlsFf-hf)
+   - [BASIC OF AFTER EFFECTS](https://youtu.be/QHDhSidFhcQ?si=qnRTuww-JlsFf-hf)
 
   some youtube channels which we can refer for editing styles :
     - [VOX](https://www.youtube.com/@Vox)
